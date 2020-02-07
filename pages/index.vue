@@ -6,7 +6,7 @@
         mitt aller første vue prosjekt
       </h1>
       <h2 class="subtitle">
-        hell yeah
+        dette er en 2nd commit
       </h2>
       <div class="links">
         <a
